@@ -1,2 +1,2 @@
 # vue-chat-app
-Vue.jsを使用したチャットアプリ
+Vue.js + vue-router+ vuetify + vue/cli + firebaseを使用したチャットアプリ
